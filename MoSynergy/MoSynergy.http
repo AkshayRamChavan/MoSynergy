@@ -1,0 +1,6 @@
+@MoSynergy_HostAddress = http://localhost:5063
+
+GET {{MoSynergy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
